@@ -12,6 +12,8 @@ import org.springframework.web.servlet.ModelAndView;
 
 import java.util.List;
 
+
+// TODO - refactor to make it a restful application
 @Controller
 public class EmployeeController {
 
